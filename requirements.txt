@@ -1,0 +1,6 @@
+spotipy
+yt-dlp
+google-api-python-client
+mutagen
+selenium
+webdriver-manager
