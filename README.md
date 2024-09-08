@@ -1,0 +1,2 @@
+# spotify-youtube-downloader
+spotifyのプレイリストの曲をyoutubeで探してダウンロードする
